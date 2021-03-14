@@ -22,7 +22,5 @@ Likewise, to change the Sci-Hub domain, look to the top lines of the code.
 * [Official TT-RSS Plugin Documentation](https://tt-rss.org/gitlab/fox/tt-rss/wikis/Plugins)
 * [Where is Sci-Hub now?](https://whereisscihub.now.sh/)
 
-### Support Dev
-All of my published code is developed and maintained in spare time, if you would like to support development of this, or any of my published code, I have set up a Liberpay account for just this purpose. Thank you.
-
-<noscript><a href="https://liberapay.com/joshu42/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+### Tips
+Dogecoin: DARhgg9q3HAWYZuN95DKnFonADrSWUimy3
